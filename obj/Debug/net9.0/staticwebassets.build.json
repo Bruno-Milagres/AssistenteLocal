@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "31ft2MUh736JPNJLyGX13jOGYBJENoedxReUZv2VXwc=",
+  "Source": "AssistenteLocal.Api",
+  "BasePath": "_content/AssistenteLocal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
